@@ -1,4 +1,4 @@
-# PROBLEM
+# Problem
 Implement a Caesar cipher, both encoding, and decoding.
 The key is an integer from 1 to 25. This cipher rotates the 
 letters of the alphabet (A to Z). The encoding replaces each 
