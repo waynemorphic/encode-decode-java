@@ -13,8 +13,8 @@ public class Decode {
     }
 
     public static void main(String[] args){
-        Decode decode = new Decode("lqjp", 2);
-        System.out.println(decode.decrypt(decode.getLetters(), decode.getShiftKey()));
+//        Decode decode = new Decode("", 2);
+//        System.out.println(decode.decrypt(decode.getLetters(), decode.getShiftKey()));
 
     }
 

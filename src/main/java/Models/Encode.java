@@ -9,8 +9,8 @@ public class Encode {
     public static final String Alphabets = "abcdefghijklmnopqrstuvwxyz";
 
     public static void main(String[] args){
-        Encode encode = new Encode("John", 2);
-        System.out.println(encode.encrypt(encode.getLetters(), encode.getShiftKey()));
+//        Encode encode = new Encode("John", 2);
+//        System.out.println(encode.encrypt(encode.getLetters(), encode.getShiftKey()));
 
     }
 
